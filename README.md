@@ -1,12 +1,12 @@
-<div style="background-color: white; width: 100%; padding: 10px">
-  <b style="text-align: center"><h1>Programming Community Universitas Bumigora</h1></b>
-  <h3 style="text-align: center">JavaScript Web: Basic to Intermediate - Pengenalan JavaScript untuk Web Development</h3>
+<div >
+  <b><h1>Programming Community Universitas Bumigora</h1></b>
+  <h3 >JavaScript Web: Basic to Intermediate - Pengenalan JavaScript untuk Web Development</h3>
   <hr />
-  <p style="text-align: center">
+  <p >
     Selamat Datang di kelas Programming Community
   </p>
-  <p style="text-align: justify">
-    Kelas JavaScript ini dirancang untuk memberikan pemahaman yang kuat kepada
+  <p >
+  <br/>  Kelas JavaScript ini dirancang untuk memberikan pemahaman yang kuat kepada
     peserta mengenai dasar-dasar hingga konsep tingkat menengah dalam
     pemrograman JavaScript. Kegiatan ini merupakan inisiatif dari Programming
     Community Universitas Bumigora untuk mendukung pengembangan keterampilan
@@ -15,7 +15,7 @@
     hingga praktik yang lebih kompleks yang umum digunakan di industri.
   </p>
 
-  <p style="text-align: justify">
+  <p >
     Berikut adalah materi yang akan dibahas dalam kelas ini:
   </p>
 
@@ -33,7 +33,6 @@
       destructuring, dll.)
     </li>
     <li>Modularisasi kode (export dan import)</li>
-    <li>Pengenalan penggunaan API (fetch)</li>
-    <li>Studi kasus sederhana dan praktik langsung</li>
+       <li>Studi kasus sederhana dan praktik langsung</li>
   </ul>
 </div>
