@@ -1,22 +1,39 @@
-<p style="text-align: justify;">
-  Kelas JavaScript ini dirancang untuk memberikan pemahaman yang kuat kepada peserta mengenai dasar-dasar hingga konsep tingkat menengah dalam pemrograman JavaScript. Kegiatan ini merupakan inisiatif dari Programming Community Universitas Bumigora untuk mendukung pengembangan keterampilan pemrograman mahasiswa, khususnya dalam pengembangan web. Selama kelas berlangsung, peserta akan dibimbing secara bertahap dari konsep paling dasar hingga praktik yang lebih kompleks yang umum digunakan di industri.
-</p>
+<div style="background-color: white; width: 100%; padding: 10px">
+  <b style="text-align: center"><h1>Programming Community</h1></b>
+  <h3 style="text-align: center">Javascript Dasar to Intermediate</h3>
+  <hr />
+  <p style="text-align: center">
+    Selamat Datang di kelas Programming Community
+  </p>
+  <p style="text-align: justify">
+    Kelas JavaScript ini dirancang untuk memberikan pemahaman yang kuat kepada
+    peserta mengenai dasar-dasar hingga konsep tingkat menengah dalam
+    pemrograman JavaScript. Kegiatan ini merupakan inisiatif dari Programming
+    Community Universitas Bumigora untuk mendukung pengembangan keterampilan
+    pemrograman mahasiswa, khususnya dalam pengembangan web. Selama kelas
+    berlangsung, peserta akan dibimbing secara bertahap dari konsep paling dasar
+    hingga praktik yang lebih kompleks yang umum digunakan di industri.
+  </p>
 
-<p style="text-align: justify;">
-  Berikut adalah materi yang akan dibahas dalam kelas ini:
-</p>
+  <p style="text-align: justify">
+    Berikut adalah materi yang akan dibahas dalam kelas ini:
+  </p>
 
-<ul>
-  <li>Pengenalan JavaScript dan lingkungan pengembangannya</li>
-  <li>Tipe data, variabel, dan operator</li>
-  <li>Pengendalian alur program (percabangan dan perulangan)</li>
-  <li>Fungsi dan scope</li>
-  <li>Array dan objek</li>
-  <li>Manipulasi DOM (Document Object Model)</li>
-  <li>Event handling</li>
-  <li>Asynchronous JavaScript (Callback, Promise, dan async/await)</li>
-  <li>Pengenalan ES6+ (let, const, arrow function, template literals, destructuring, dll.)</li>
-  <li>Modularisasi kode (export dan import)</li>
-  <li>Pengenalan penggunaan API (fetch)</li>
-  <li>Studi kasus sederhana dan praktik langsung</li>
-</ul>
+  <ul>
+    <li>Pengenalan JavaScript dan lingkungan pengembangannya</li>
+    <li>Tipe data, variabel, dan operator</li>
+    <li>Pengendalian alur program (percabangan dan perulangan)</li>
+    <li>Fungsi dan scope</li>
+    <li>Array dan objek</li>
+    <li>Manipulasi DOM (Document Object Model)</li>
+    <li>Event handling</li>
+    <li>Asynchronous JavaScript (Callback, Promise, dan async/await)</li>
+    <li>
+      Pengenalan ES6+ (let, const, arrow function, template literals,
+      destructuring, dll.)
+    </li>
+    <li>Modularisasi kode (export dan import)</li>
+    <li>Pengenalan penggunaan API (fetch)</li>
+    <li>Studi kasus sederhana dan praktik langsung</li>
+  </ul>
+</div>
