@@ -1,6 +1,6 @@
 <div style="background-color: white; width: 100%; padding: 10px">
-  <b style="text-align: center"><h1>Programming Community</h1></b>
-  <h3 style="text-align: center">Javascript Dasar to Intermediate</h3>
+  <b style="text-align: center"><h1>Programming Community Universitas Bumigora</h1></b>
+  <h3 style="text-align: center">JavaScript Web: Basic to Intermediate - Pengenalan JavaScript untuk Web Development</h3>
   <hr />
   <p style="text-align: center">
     Selamat Datang di kelas Programming Community
